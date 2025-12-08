@@ -6,7 +6,7 @@ GUI Coming soon.
 ## Licensing
 
 ### Code License
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the MIT License.
 <br>
 Please see the 'LICENSE' file for full details
 
@@ -15,4 +15,4 @@ Please see the 'LICENSE' file for full details
 <br>
 Coconut Tech™  and Throttle™ are trademarks of Coconut Tech.
 <br>
-The names, logos, site wording and branding may **not** be used without written permisson.
+The names, logos and branding may **not** be used without written permisson.
