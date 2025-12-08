@@ -1,6 +1,6 @@
 # HashMatch
-The first tool made by Throttle. 
 A simple SHA-256 and MD5 hash calculator.
+<br>
 GUI Coming soon.
 
 ## Licensing
